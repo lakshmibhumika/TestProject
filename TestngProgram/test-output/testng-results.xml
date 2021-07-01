@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-04T21:01:35 IST" name="SampleTest" finished-at="2021-06-04T21:01:36 IST" duration-ms="366">
+    <groups>
+    </groups>
+    <test started-at="2021-06-04T21:01:35 IST" name="FirstTestng" finished-at="2021-06-04T21:01:35 IST" duration-ms="111">
+      <class name="SampleXmlProgram">
+        <test-method signature="SampleTest1()[pri:0, instance:SampleXmlProgram@7ff95560]" started-at="2021-06-04T21:01:35 IST" name="SampleTest1" finished-at="2021-06-04T21:01:35 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SampleTest1 -->
+        <test-method signature="SampleTest2()[pri:0, instance:SampleXmlProgram@7ff95560]" started-at="2021-06-04T21:01:35 IST" name="SampleTest2" finished-at="2021-06-04T21:01:35 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SampleTest2 -->
+      </class> <!-- SampleXmlProgram -->
+    </test> <!-- FirstTestng -->
+    <test started-at="2021-06-04T21:01:36 IST" name="SecondTestng" finished-at="2021-06-04T21:01:36 IST" duration-ms="17">
+      <class name="TestXmlProgram">
+        <test-method signature="Test1()[pri:0, instance:TestXmlProgram@222114ba]" started-at="2021-06-04T21:01:36 IST" name="Test1" finished-at="2021-06-04T21:01:36 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test2()[pri:0, instance:TestXmlProgram@222114ba]" started-at="2021-06-04T21:01:36 IST" name="Test2" finished-at="2021-06-04T21:01:36 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+      </class> <!-- TestXmlProgram -->
+    </test> <!-- SecondTestng -->
+    <test started-at="2021-06-04T21:01:36 IST" name="PackageTestng" finished-at="2021-06-04T21:01:36 IST" duration-ms="19">
+      <class name="com.testng.sample.PackageTest1">
+        <test-method signature="PackageSampleTest1()[pri:0, instance:com.testng.sample.PackageTest1@29176cc1]" started-at="2021-06-04T21:01:36 IST" name="PackageSampleTest1" finished-at="2021-06-04T21:01:36 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PackageSampleTest1 -->
+      </class> <!-- com.testng.sample.PackageTest1 -->
+      <class name="com.testng.sample.PackageTest2">
+        <test-method signature="PackageSampleTest2()[pri:0, instance:com.testng.sample.PackageTest2@2f177a4b]" started-at="2021-06-04T21:01:36 IST" name="PackageSampleTest2" finished-at="2021-06-04T21:01:36 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PackageSampleTest2 -->
+      </class> <!-- com.testng.sample.PackageTest2 -->
+    </test> <!-- PackageTestng -->
+  </suite> <!-- SampleTest -->
+</testng-results>
